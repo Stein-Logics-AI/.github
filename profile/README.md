@@ -27,7 +27,3 @@ Diseñamos software, automatización e inteligencia artificial para transformar 
 Analizamos cada operación, identificamos cuellos de botella y construimos soluciones adaptadas a las necesidades reales de cada empresa.
 
 ---
-
-<div align="center">
-  📍 Argentina · ✉️ info@steinlogics.com · 🌐 steinlogics.com
-</div>
