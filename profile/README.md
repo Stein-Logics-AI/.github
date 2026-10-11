@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Stein-Logics-AI/.github/main/profile/banner.png" alt="Stein Logics" width="100%" />
 
-  **Software, automatización e IA a medida para que tu empresa opere mejor, reduzca trabajo manual y escale con confianza.**
+  **Adaptado para que tu empresa opere mejor, reduzca trabajo manual y escale con confianza.**
 
 
   [![Website](https://img.shields.io/badge/website-steinlogics.com-191a2e?style=flat-square)](https://steinlogics.com)
