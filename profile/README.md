@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Stein-Logics-AI/.github/main/profile/banner.png" alt="Stein Logics" width="100%" />
+  <img src="https://raw.githubusercontent.com/Stein-Logics-AI/.github/main/profile/SL_Banner.png" alt="Stein Logics" width="100%" />
 
   **Adaptado para que tu empresa opere mejor, reduzca trabajo manual y escale con confianza.**
 
