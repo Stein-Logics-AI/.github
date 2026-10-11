@@ -5,7 +5,6 @@
 
   **Software, automatización e IA a medida para que tu empresa opere mejor, reduzca trabajo manual y escale con confianza.**
 
-  [steinlogics.com](https://steinlogics.com) · [Hablemos](https://steinlogics.com/contact) · info@steinlogics.com
 
   [![Website](https://img.shields.io/badge/website-steinlogics.com-191a2e?style=flat-square)](https://steinlogics.com)
   [![Contact](https://img.shields.io/badge/contact-info%40steinlogics.com-191a2e?style=flat-square)](mailto:info@steinlogics.com)
